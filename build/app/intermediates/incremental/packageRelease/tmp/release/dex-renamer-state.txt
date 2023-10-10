@@ -1,0 +1,4 @@
+#Mon Oct 09 22:34:47 IST 2023
+base.0=C\:\\Users\\Gaurav\\Desktop\\Flutter\\Flutter-Responsive-Portfolio-WebApp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
